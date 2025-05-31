@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Satsuki Kasuya / Hello"
+title                    : "Satsuki Kasuya"
 title_separator          : "-"
 name                     : &name "Satsuki Kasuya"
 description              : &description "personal description"
